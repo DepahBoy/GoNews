@@ -1,0 +1,15 @@
+
+.box{
+    padding: 10px 10px;
+    background-color: whitesmoke;
+}
+.box h5{
+    font-size: 15px;
+    font-weight: bold;
+}
+a:hover{
+    background-color: violet;
+    border-radius: 10px;
+   color: black;
+   font-weight: 700;
+}
